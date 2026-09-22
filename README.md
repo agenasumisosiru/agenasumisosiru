@@ -12,4 +12,4 @@ If you like my projects and want to support my development, you can send me a **
 
 Any support is greatly appreciated! Thank you!
 
-▸I want MECCHA CHAMELEON! ! ! Someone please give me a present!
+I want MECCHA CHAMELEON! ! ! Someone please give me a present!
