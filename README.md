@@ -11,3 +11,5 @@ If you like my projects and want to support my development, you can send me a **
 2. Once accepted, you can send a Digital Gift Card via Steam.
 
 Any support is greatly appreciated! Thank you!
+
+▸I want MECCHA CHAMELEON! ! ! Someone please give me a present!
