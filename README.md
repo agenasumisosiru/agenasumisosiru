@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**agenasumisosiru/agenasumisosiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer building cool tools and projects! 
+Thank you for visiting my profile.
 
-Here are some ideas to get you started:
+## ☕ Support My Work!
+If you like my projects and want to support my development, you can send me a **Steam Digital Gift Card**! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 How to Support:
+1. Go to my [Steam Profile]https://steamcommunity.com/profiles/76561199737887077/and send me a friend request.
+2. Once accepted, you can send a Digital Gift Card via Steam.
+
+Any support is greatly appreciated! Thank you!
