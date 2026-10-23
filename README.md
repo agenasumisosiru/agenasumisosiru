@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://github-stats-extended.vercel.app/api?username=agenasumisosiru
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=agenasumisosiru)](https://github.com/stats-organization/github-stats-extended)
 I am a developer building cool tools and projects! 
 Thank you for visiting my profile.
 
