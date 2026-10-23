@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agenasumisosiru&show_icons=true&locale=ja&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 I am a developer building cool tools and projects! 
 Thank you for visiting my profile.
 
@@ -13,3 +13,4 @@ If you like my projects and want to support my development, you can send me a **
 Any support is greatly appreciated! Thank you!
 
 I want MECCHA CHAMELEON! ! ! Someone please give me a present!
+
