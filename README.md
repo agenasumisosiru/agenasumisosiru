@@ -1,5 +1,7 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=agenasumisosiru)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&show_icons=true&locale=ja&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 I am a developer building cool tools and projects! 
 Thank you for visiting my profile.
 
